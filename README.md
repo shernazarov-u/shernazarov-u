@@ -1,16 +1,19 @@
-## Hi there 👋
+\`\`\`bash
+shernazarov-u@debian:~$ whoami
+> Linux System Administrator / Infrastructure Security Engineer (in training)
 
-<!--
-**shernazarov-u/shernazarov-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+shernazarov-u@debian:~$ cat /etc/skills.conf
+> OS:        Debian, basics of Kali
+> Shell:     Bash
+> Security:  iptables/nftables, fail2ban, basic hardening (CIS-style)
+> Learning:  Skillbox "Cybersecurity 2.0" — Linux SysAdmin course
 
-Here are some ideas to get you started:
+shernazarov-u@debian:~$ ls ~/projects
+linux-sysadmin-notes/   debian-hardening-lab/ certificates/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+shernazarov-u@debian:~$ cat ~/contact.txt
+> Telegram: @https://t.me/DevOps_n7
+> Status: open to junior sysadmin/security roles
+
+shernazarov-u@debian:~$ _
+\`\`\`
